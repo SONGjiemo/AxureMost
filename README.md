@@ -3,7 +3,7 @@
 
 > Axure RP 简体中文语言包，不定期更新。支持 Axure 9、Axure 10。
 
-汉化文件下载地址：[官网](https://github.com/pluwen/axure-cn/archive/master.zip "https://github.com/pluwen/axure-cn/archive/master.zip")
+axure汉化文件下载地址：[官网](https://github.com/pluwen/axure-cn/archive/master.zip "https://github.com/pluwen/axure-cn/archive/master.zip")
 
 Axure rp9  ：   [官网](https://www.axure.com/release-history/rp9 "https://www.axure.com/release-history/rp9")                 Axure rp 10   ： [官网](https://www.axure.com/downloadthanks "https://www.axure.com/downloadthanks")
 
