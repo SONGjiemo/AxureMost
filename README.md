@@ -1,9 +1,8 @@
 # AxureMost
 涵盖全范围 PM 链路学习资料，专注工作产出。 涉及 PM 产品经理相关的 axure 元件库/组件库，axure素材，axure项目合集，PM 资料。思维导图，MD 文档，流程图
-
 > Axure RP 简体中文语言包，不定期更新。支持 Axure 9、Axure 10。
 
-axure汉化文件下载地址：[官网](https://github.com/pluwen/axure-cn/archive/master.zip "https://github.com/pluwen/axure-cn/archive/master.zip")
+axure汉化文件：[官网](https://github.com/pluwen/axure-cn/archive/master.zip "https://github.com/pluwen/axure-cn/archive/master.zip")
 
 Axure rp9  ：   [官网](https://www.axure.com/release-history/rp9 "https://www.axure.com/release-history/rp9")                 Axure rp 10   ： [官网](https://www.axure.com/downloadthanks "https://www.axure.com/downloadthanks")
 
